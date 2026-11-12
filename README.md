@@ -58,6 +58,8 @@ Engineering student in **Data Analysis & Digitalization** with hands-on experien
 
 *Tools: Python, Power BI*
 
+[**View repository →**](https://github.com/maryam-08/caveo)
+
 ---
 
 ## 🛠️ Skills
